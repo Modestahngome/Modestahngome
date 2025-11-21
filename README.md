@@ -1,4 +1,3 @@
-<!-- =================== HEADER =================== -->
 <h1 align="center" style="color:#0A0A0A;">Hi, I'm Modestah Ngome 👋</h1>
 <h3 align="center" style="color:#4B5563;">Web Developer | Python & Django | SQL | Portfolio & Projects</h3>
 
@@ -14,18 +13,16 @@
   </a>
 </p>
 
----
 
-<!-- =================== ABOUT ME =================== -->
+
 ## 👨‍💻 About Me
 - Web Developer with hands-on experience in **Python, Django, SQL** and web applications  
 - Passionate about **clean, short, efficient, and user-friendly code**  
 - Focused on **building projects that solve real problems**  
 - Lifelong learner, constantly improving my **data analysis & automation skills**
 
----
 
-<!-- =================== SKILLS =================== -->
+
 ## 🛠 Skills & Technologies
 | Programming | Web Development | Database | Tools & Others |
 |-------------|----------------|---------|----------------|
@@ -33,9 +30,7 @@
 | JavaScript  | HTML & CSS     | SQLite  | VS Code        |
 | Pandas      | REST APIs      | PostgreSQL | Postman      |
 
----
 
-<!-- =================== PROJECTS =================== -->
 ## 🚀 Projects & Portfolio
 | Project | Description | Link |
 |---------|-------------|------|
@@ -43,18 +38,16 @@
 | **GitHub Portfolio** | Showcase of coding projects | [Coming Soon](#) |
 | **Sample Django App** | Web app with CRUD & authentication | [Coming Soon](#) |
 
----
 
-<!-- =================== GITHUB STATS =================== -->
+
 ## 📊 GitHub Stats
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ModestahNgome&show_icons=true&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ModestahNgome&layout=compact&theme=radical"/>
 </p>
 
----
 
-<!-- =================== CONNECT =================== -->
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="#" target="_blank">
@@ -68,6 +61,6 @@
   </a>
 </p>
 
----
+
 
 <p align="center"><b>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</b></p>
